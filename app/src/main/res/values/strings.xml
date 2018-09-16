@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="input_name">Input Name</string>
+    <string name="input_number">Input Number</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="message">Message</string>
+    <string name="call">Call</string>
+    <string name="ask">Would you like Call or Message?</string>
+</resources>
